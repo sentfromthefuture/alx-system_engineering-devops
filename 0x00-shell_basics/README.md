@@ -1,1 +1,1 @@
-print absolute path name
+ls -a
